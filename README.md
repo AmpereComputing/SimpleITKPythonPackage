@@ -1,19 +1,19 @@
-# SimpleITKPythonPackage
+# SimpleITKPythonPackage rebuilded by AmpereComputing
 
 This project provides a `setup.py` script that can build, install, and package SimpleITK for Python. [SimpleITK](http://www.simpleitk.org) is a simplified programming layer on top of the [Insight Segmentation and Registration Toolkit](https://itk.org) (ITK).  ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.
 
 SimpleITK is available for binary downloads from [PyPI](https://pypi.python.org/pypi/SimpleITK) for many common platforms. Also a source distribution is available of this repository which may be used when an appropriate binary [wheel](http://pythonwheels.com) is not available.
 
-To install SimpleITK:
+To install AmpereSimpleITK:
 
 ```bash
-pip install SimpleITK
+pip install AmpereSimpleITK
 ```
 
-## Installing SimpleITK for Python from the Python Packaging Source
+## Installing AmpereSimpleITK for Python from the Python Packaging Source
 
 ```bash
-pip install SimpleITK
+pip install AmpereSimpleITK
 ```
 
 ### Prerequisites
